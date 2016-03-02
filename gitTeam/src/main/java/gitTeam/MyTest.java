@@ -14,4 +14,7 @@ public class MyTest {
 	public String getSex(){
 		return sex;
 	}
+	public String test(){
+		return "luocf";
+	}
 }
