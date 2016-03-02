@@ -4,4 +4,5 @@ public class MyTest {
 	private String name;
 	private String sex;
 	private String cardnum;
+	private int age;
 }
