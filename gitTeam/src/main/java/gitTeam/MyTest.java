@@ -11,4 +11,7 @@ public class MyTest {
 	public String getCardNum(){
 		return cardnum;
 	}
+	public String getSex(){
+		return sex;
+	}
 }
