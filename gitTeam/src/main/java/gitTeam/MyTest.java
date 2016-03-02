@@ -5,4 +5,7 @@ public class MyTest {
 	private String sex;
 	private String cardnum;
 	private int age;
+	public String getName(){
+		
+	}
 }
