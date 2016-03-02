@@ -8,4 +8,7 @@ public class MyTest {
 	public String getName(){
 		return name;
 	}
+	public String getCardNum(){
+		return cardnum;
+	}
 }
