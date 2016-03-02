@@ -14,7 +14,4 @@ public class MyTest {
 	public String getSex(){
 		return sex;
 	}
-	public int getAge(){
-		return age;
-	}
 }
