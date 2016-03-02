@@ -6,6 +6,6 @@ public class MyTest {
 	private String cardnum;
 	private int age;
 	public String getName(){
-		
+		return name;
 	}
 }
