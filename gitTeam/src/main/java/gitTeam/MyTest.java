@@ -17,4 +17,7 @@ public class MyTest {
 	public String test(){
 		return "luocf";
 	}
+	public int getAge(){
+		return age;
+	}
 }
